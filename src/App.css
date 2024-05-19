@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+label {
+align-items: center;
+display: flex;
+margin-right: 10px;
+
+
+}
+input {
+  margin-right: 100
+  px;
+ margin-left: 60px;
+ border-radius: px;
+}
+
+.footer {
+  background-color: #f7f7f7;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footer .redes-sociales {
+  margin-top: 10px;
+}
+
+.footer .redes-sociales a {
+  margin: 0 10px;
+  display: inline-block;
+  font-size: 20px;
+  color: #333;
+}
