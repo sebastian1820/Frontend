@@ -1,21 +1,12 @@
 import React from "react"
-import logo from '../Componentes/Imagenes/razas-perro-pequenos-grandes-m.jpg.webp'
+
 
 const Footer  =()=>{
 
 
     return (
 
- //]       <div  className="card-body" >
-   // <footer className="bg-body-tertiary text-center text-lg-start">
-   
-    //<div class="text-center p-3" style={{ backgroundColor: 'rgba(0, 0, 0, 0.05)' }}>
-     // © 2024 TalentoTech:
-      //<a class="text-body" href="https://talentotech.gov.co/portal/">CRUD REACT MONGO DB</a>
-   // </div>
-    
- // </footer> 
- //  </div>
+
 
 <div>
 <footer className="footer">
